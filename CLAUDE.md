@@ -123,9 +123,9 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 | Chapter | Branch | Status | Files |
 |---------|--------|--------|-------|
 | 01 - Introduction to Advanced PowerShell | `feat/chapter_01` | Complete | 13 figures |
-| 02 - Advanced PowerShell Functions | `feat/chapter_02` | In Progress | 41 files |
-| 03 - TBD | - | Pending | - |
-| 04 - TBD | - | Pending | - |
+| 02 - Advanced PowerShell Functions | `feat/chapter_02` | Complete | 42 files |
+| 03 - Flow Control and Looping | `feat/chapter_03` | Complete | 22 files |
+| 04 - Error Handling | `feat/chapter_04` | Complete | 24 files |
 | 05 - TBD | - | Pending | - |
 | 06 - TBD | - | Pending | - |
 | 07 - TBD | - | Pending | - |
@@ -164,6 +164,49 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 - HeroMap.csv
 - Figure_2.21_HeroMap.csv
 - Superheroes.txt
+
+---
+
+## Chapter 3 File Categories
+
+### Figure Files (Figures from the book)
+- Figure 3.1-3.7 - Loops, break, continue, labeled statements
+- Figure 3.9-3.10 - Complex loop scenarios (mission game, monster battle)
+- Figure 3.11-3.13 - While/Do-While loops, memory comparison
+- Figure 3.15 - Nested switch statements
+- Figure 3.16-3.17 - Script blocks and Windows Forms
+- Figure 3.18-3.22 - Parallel processing with Jobs and ForEach-Object -Parallel
+
+### Recipe Files (Complete working examples)
+- Recipe - Create advanced conditional statements using comparison operators...
+- Recipe - Create and use script blocks to dynamically modify and control...
+
+### Data Files (No enhancement needed)
+- HeroMap.csv
+- HeroMap2.csv
+- organizations-100000.csv
+
+---
+
+## Chapter 4 File Categories
+
+### Figure Files (Figures from the book)
+- Figure 4.1-4.3 - Try/catch/finally with DatabaseInstance class
+- Figure 4.4-4.10 - ErrorActionPreference values and cmdlet overrides
+- Figure 4.11 - System.Exception members
+- Figure 4.12-4.15 - Custom error class with JSON logging
+- Figure 4.17-4.19 - Background job error handling
+- Figure 4.20-4.21 - Structured logging examples
+
+### Recipe Files (Complete working examples)
+- Recipe - Use the ErrorAction preference variable...
+- Recipe - Create a custom logging function for structured logging...
+- Recipe - Techniques for handling different types of errors
+- Recipe - Use try-catch-finally blocks to handle errors...
+
+### Data Files (No enhancement needed)
+- CustomLog.json
+- File1.txt, File2.txt, File3.txt
 
 ---
 
