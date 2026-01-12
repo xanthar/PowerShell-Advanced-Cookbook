@@ -134,7 +134,7 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 | 10 - TBD | - | Pending | - |
 | 11 - TBD | - | Pending | - |
 | 12 - TBD | - | Pending | - |
-| 13 - TBD | - | Pending | - |
+| 13 - Desired State Configuration (DSC) | `feat/chapter_13` | Complete | 23 figures, 6 recipes |
 | 14 - TBD | - | Pending | - |
 | 15 - TBD | - | Pending | - |
 
