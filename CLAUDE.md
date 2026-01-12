@@ -133,7 +133,7 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 | 09 - TBD | - | Pending | - |
 | 10 - TBD | - | Pending | - |
 | 11 - TBD | - | Pending | - |
-| 12 - TBD | - | Pending | - |
+| 12 - Microsoft 365 with PowerShell | `feat/chapter_12` | Complete | 27 figures |
 | 13 - TBD | - | Pending | - |
 | 14 - TBD | - | Pending | - |
 | 15 - TBD | - | Pending | - |
