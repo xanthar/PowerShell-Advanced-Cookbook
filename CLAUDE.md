@@ -123,10 +123,10 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 | Chapter | Branch | Status | Files |
 |---------|--------|--------|-------|
 | 01 - Introduction to Advanced PowerShell | `feat/chapter_01` | Complete | 13 figures |
-| 02 - Advanced PowerShell Functions | `feat/chapter_02` | In Progress | 41 files |
-| 03 - TBD | - | Pending | - |
-| 04 - TBD | - | Pending | - |
-| 05 - TBD | - | Pending | - |
+| 02 - Advanced PowerShell Functions | `feat/chapter_02` | Complete | 41 files |
+| 03 - Working with Objects | `feat/chapter_03` | Complete | 24 figures, 3 recipes |
+| 04 - Error Handling | `feat/chapter_04` | Complete | 20 figures, 4 recipes |
+| 05 - Working with Scripts | `feat/chapter_05` | Complete | 35 figures, 4 recipes, 3 module files |
 | 06 - TBD | - | Pending | - |
 | 07 - TBD | - | Pending | - |
 | 08 - TBD | - | Pending | - |
