@@ -135,7 +135,7 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 | 11 - TBD | - | Pending | - |
 | 12 - TBD | - | Pending | - |
 | 13 - TBD | - | Pending | - |
-| 14 - TBD | - | Pending | - |
+| 14 - System Administration with PowerShell | `feat/chapter_14` | Complete | 34 figures |
 | 15 - TBD | - | Pending | - |
 
 ---
