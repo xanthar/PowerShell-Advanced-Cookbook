@@ -130,7 +130,7 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 | 06 - TBD | - | Pending | - |
 | 07 - TBD | - | Pending | - |
 | 08 - TBD | - | Pending | - |
-| 09 - TBD | - | Pending | - |
+| 09 - Active Directory Management | `feat/chapter_09` | Complete | 32 figures, 3 recipes |
 | 10 - TBD | - | Pending | - |
 | 11 - TBD | - | Pending | - |
 | 12 - TBD | - | Pending | - |
