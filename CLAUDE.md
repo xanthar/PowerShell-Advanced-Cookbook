@@ -123,12 +123,12 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 | Chapter | Branch | Status | Files |
 |---------|--------|--------|-------|
 | 01 - Introduction to Advanced PowerShell | `feat/chapter_01` | Complete | 13 figures |
-| 02 - Advanced PowerShell Functions | `feat/chapter_02` | In Progress | 41 files |
-| 03 - TBD | - | Pending | - |
-| 04 - TBD | - | Pending | - |
-| 05 - TBD | - | Pending | - |
-| 06 - TBD | - | Pending | - |
-| 07 - TBD | - | Pending | - |
+| 02 - Advanced PowerShell Functions | `feat/chapter_02` | Complete | 41 files |
+| 03 - Practical Applications | `feat/chapter_03` | Complete | 19 figures, 4 recipes |
+| 04 - Working with Data | `feat/chapter_04` | Complete | 17 figures |
+| 05 - PowerShell Remoting and JEA | `feat/chapter_05` | Complete | 17 figures |
+| 06 - Desired State Configuration | `feat/chapter_06` | Complete | 16 figures, 2 recipes |
+| 07 - Testing with Pester | `feat/chapter_07` | Complete | 16 figures, 3 recipes, 6 test files |
 | 08 - TBD | - | Pending | - |
 | 09 - TBD | - | Pending | - |
 | 10 - TBD | - | Pending | - |
