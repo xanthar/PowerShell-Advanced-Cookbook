@@ -132,7 +132,7 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 | 08 - TBD | - | Pending | - |
 | 09 - TBD | - | Pending | - |
 | 10 - TBD | - | Pending | - |
-| 11 - TBD | - | Pending | - |
+| 11 - AWS PowerShell Tools | `feat/chapter_11` | Complete | 24 figures, 5 recipes |
 | 12 - TBD | - | Pending | - |
 | 13 - TBD | - | Pending | - |
 | 14 - TBD | - | Pending | - |
