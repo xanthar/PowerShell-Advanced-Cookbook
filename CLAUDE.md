@@ -129,7 +129,7 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 | 05 - TBD | - | Pending | - |
 | 06 - TBD | - | Pending | - |
 | 07 - TBD | - | Pending | - |
-| 08 - TBD | - | Pending | - |
+| 08 - Working with XML and JSON | `feat/chapter_08` | Complete | 26 figures, 13 recipes |
 | 09 - TBD | - | Pending | - |
 | 10 - TBD | - | Pending | - |
 | 11 - TBD | - | Pending | - |
