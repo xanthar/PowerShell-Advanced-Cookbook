@@ -131,7 +131,7 @@ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
 | 07 - TBD | - | Pending | - |
 | 08 - TBD | - | Pending | - |
 | 09 - TBD | - | Pending | - |
-| 10 - TBD | - | Pending | - |
+| 10 - Azure CLI with PowerShell | `feat/chapter_10` | Complete | 23 figures, 7 recipes |
 | 11 - TBD | - | Pending | - |
 | 12 - TBD | - | Pending | - |
 | 13 - TBD | - | Pending | - |
